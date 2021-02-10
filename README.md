@@ -1,4 +1,4 @@
-This repository consists of Azure vm installation,jenkins installation ,java installation and jenkins groovy script to deploy K8s
+This repository consists of Azure vm installation,terraform code to create server on aws , jenkins installation ,java installation and jenkins groovy script to deploy K8s
 
 #install_jenkins.yml
 
